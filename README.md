@@ -108,5 +108,5 @@ GET /tasks/?priority=high&status=in_progress
 
 ## 👨‍💻 Author
 
-**Your Name** | BCA Student — Maharshi Dayanand University Ajmer  
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
+**Yash Pareek** | BCA Student — Maharshi Dayanand University Ajmer  
+[GitHub](https://github.com/YashPareek925/) • [LinkedIn](www.linkedin.com/in/yash-pareek-475765341)
